@@ -1,11 +1,11 @@
-# 🎧 YouTube Media Downloader
+#  YouTube Media Downloader
 
 A simple and lightweight **YouTube to MP3 downloader desktop application** built with **Python** and **Tkinter**.
 Easily download YouTube videos as MP3 files directly to your computer.
 
 ---
 
-## ✨ Features
+##  Features
 
 * Download YouTube videos as MP3
 * Automatically convert to 192 kbps MP3
@@ -15,7 +15,7 @@ Easily download YouTube videos as MP3 files directly to your computer.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python 3**
 * **Tkinter** – GUI framework
@@ -24,7 +24,7 @@ Easily download YouTube videos as MP3 files directly to your computer.
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repository:
 
@@ -43,7 +43,7 @@ Make sure **FFmpeg** is installed and added to your system PATH.
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the application:
 
@@ -58,7 +58,7 @@ python Youtube_Downloader.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 youtube-media-downloader/
@@ -71,14 +71,14 @@ youtube-media-downloader/
 
 ---
 
-## 📸 Video
+##  Video
 
 ![2026-01-1115-56-59-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2ce94531-b61e-4dba-aad3-d2e00d1cd33d)
 
 
 ---
 
-## 🚀 Possible Improvements
+##  Possible Improvements
 
 * Support for playlists
 * Option to choose audio quality
@@ -89,6 +89,6 @@ youtube-media-downloader/
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for **educational and personal use**.
